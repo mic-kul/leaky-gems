@@ -7,6 +7,7 @@ Links to issues, pull requests or articles demonstrating memory leaks:
 - [zipruby <= 0.3.6](https://packetstormsecurity.com/files/111242/libzip-0.10-Heap-Overflow-Information-Leak.html)
 - [redcarpet < 3.3.3](https://github.com/vmg/redcarpet/pull/516)
 - [grape < 0.2.5](https://github.com/ruby-grape/grape/pull/291#issuecomment-11725614)
+- [delayed_job >= 4.0.6](https://github.com/collectiveidea/delayed_job/issues/776) - development environment only
 
 Your Ruby app leaks memory if you see gems above in your _Gemfile.lock_. The list above may save you a week or more of your personal life.  
 
